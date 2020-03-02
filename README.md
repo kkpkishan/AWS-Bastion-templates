@@ -25,8 +25,4 @@
             </ol>
         </td>
         <td  nowrap width="200" valign="top">
-            <table>
-                <tr>
-                    <th align="left">Launch</th>
-                </tr>
             </table>
