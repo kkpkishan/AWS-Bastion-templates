@@ -24,5 +24,4 @@
              <li>Security Group</li>
             </ol>
         </td>
-        <td  nowrap width="200" valign="top">
-            </table>
+</table>
