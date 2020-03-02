@@ -5,7 +5,7 @@
     </tr>
     <tr>
         <td width="100%" valign="top">
-            <p>Creates a single Bastion host on a Public subnet in an existing VPC. Select from either a Centos, Ubuntu or Windows OS.</p>
+            <p>Creates a single Bastion host on a Public subnet in an existing VPC. Select from either a Centos, Amazon,Ubuntu or Windows OS.</p>
             <h6>Prerequisites</h6>
             <ol>
              <li>VPC</li>
